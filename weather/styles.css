@@ -1,0 +1,29 @@
+body {
+    background-image: url('sky.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+body nav{
+    background-color: #dddd30;
+    margin-bottom: 0px;
+}
+.head{
+    color:#e4510d;
+    font-size: 30px;
+}
+.hi{
+    color:  #333333;
+}
+.sub{
+    color:  #333333;
+    font-weight: 500;
+}
+.footer {
+    padding: 20px;
+    text-align: center;
+}
+.footer-text {
+    font-size: 14px;
+    color: #333333;
+    font-weight: bold;
+}
